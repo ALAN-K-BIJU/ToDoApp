@@ -2,7 +2,6 @@
 
 **ToDoApp** is a simple and elegant task management application built using **React** and **TypeScript**. Designed for learning and practicing frontend development with modern best practices, it includes essential features like task creation, completion toggling, deletion, and filtering.
 
-![ToDoApp Screenshot](screenshots/todo.jpg)
 
 ---
 
